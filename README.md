@@ -2,6 +2,8 @@
 
 Este proyecto presenta un análisis integral de ventas utilizando el dataset Superstore, diseñado para demostrar capacidades analíticas y de visualización de datos a empresas interesadas en optimizar su gestión comercial.
 
+![Ejemplo de Dashboard](screenshoot/eda_superstore_streamlit.png)
+
 ## ¿Qué hace este proyecto?
 
 - **Análisis Exploratorio de Datos (EDA):** Limpia y transforma los datos de ventas, identificando patrones clave, segmentos de clientes, productos más rentables y regiones con mejor desempeño.
@@ -18,11 +20,9 @@ Este proyecto presenta un análisis integral de ventas utilizando el dataset Sup
 
 ## Estructura del proyecto
 
+- `dashboards/`: Dashboards interactivos (Streamlit)
 - `data/`: Datos originales y limpios
 - `figures/`: Gráficas generadas por el EDA
-- `scripts/`: Scripts de análisis y utilidades
-- `dashboards/`: Dashboards interactivos (Streamlit)
-- `notebooks/`: Notebooks Jupyter opcionales
 - `requirements.txt`: Dependencias del proyecto
 
 ## Ejecución rápida
